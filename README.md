@@ -2,7 +2,7 @@
 
 #VSCode https://code.visualstudio.com/
 
-https://espressif.github.io/arduino-esp32/package_esp32_index.json
+Preperences>>https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 #Git https://git-scm.com/
 
