@@ -35,4 +35,4 @@ Files> Preperences>>https://espressif.github.io/arduino-esp32/package_esp32_inde
 #-Omit --global to set the identity only in this repository.
 
 
-#git remote -v > git remote add origin https://github.com/xxxxx.git > git remote -v > git push –all origin
+#git remote -v > git remote add origin https://github.com/xxxxx.git > git remote -v > git push –-all origin
