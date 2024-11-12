@@ -14,25 +14,23 @@ Files> Preperences>>https://espressif.github.io/arduino-esp32/package_esp32_inde
 
 #CH910x ดาวโหลดได้จาก https://drive.google.com/file/d/160GOqyf1aMmdPY9Fc-Fr9R27jeP7o3xq/view
 
-#Git
+การใช้ Git
 
-#-git init
+git init
 
-#-git add .
+git add .
 
-#-git status
+git status
 
-#-git diff
+git diff
 
-#-git commit -m "xxx"
+git commit -m "xxx"
 
+#git config --global user.email "you@example.com"
 
+#git config --global user.name "Your Name"
 
-#-git config --global user.email "you@example.com"
-
-#-git config --global user.name "Your Name"
-
-#-Omit --global to set the identity only in this repository.
+#Omit --global to set the identity only in this repository.
 
 
-#git remote -v > git remote add origin https://github.com/xxxxx.git > git remote -v > git push –-all origin
+git remote -v > git remote add origin https://github.com/xxxxx.git > git remote -v > git push –-all origin
